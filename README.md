@@ -1,6 +1,6 @@
 # quickCart
 
-##Overview
+## Overview
 
 > Quickcart is an idea for a project that I had that would ultimately be a way for someone to scan the barcodes of the items as they shopped and save it as a list. 
 > It would feature some way to communicate with a store's system to pull price data and show accurate pricing. 
